@@ -1,1 +1,1 @@
-To view the site see <a href=”https://gotomary.github.io/StMichaelChaplet/”>this page</a>.
+To view the site see https://gotomary.github.io/StMichaelChaplet/
